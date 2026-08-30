@@ -32,8 +32,8 @@ export const portfolio = {
   education: { degree: 'B.Tech Computer Science & Engineering', university: 'Lovely Professional University', year: '2025 – 2029', status: 'Currently pursuing'},
   educationTimeline: [
     { degree: 'B.Tech Computer Science & Engineering - AI/ML', university: 'Lovely Professional University', year: '2025 – 2029', detail: 'Currently pursuing' },
-    { degree: 'Heigher Secondary Education', university: 'Jhadeshwar International School', year: '2022 – 2024', detail: 'CBSE' },
-    { degree: 'Secondary Education', university: "St 'James Convent School", year: '2014 – 2022', detail: 'ICSE' },
+    { degree: 'Heigher Secondary Education', university: 'City Montessori School', year: '2023-2025', detail: 'ISC' },
+    { degree: 'Secondary Education', university: "City Montessori School", year: '2011-2023', detail: 'ICSE' },
   ],
   achievements: ['Coding achievements', 'Hackathons', 'SIH participation', 'Certifications', 'Workshops', 'Technical competitions'],
   certificates: [
