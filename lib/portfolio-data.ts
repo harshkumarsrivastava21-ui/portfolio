@@ -5,7 +5,7 @@ export const portfolio = {
   availability: 'Open to learning, building & collaborating',
   bio: 'Passionate about programming, artificial intelligence, machine learning, web development, and building real-world projects. Currently learning, experimenting, and improving my skills every day.',
   about: "I'm a 2nd-year B.Tech Computer Science and Engineering student interested in Artificial Intelligence, Machine Learning, software development, and problem solving. I enjoy learning new technologies and turning ideas into practical projects.",
-  profileImage: '/profile-student.png',
+  profileImage: '/projects/Screenshot 2026-08-30 212423.png',
   resumeUrl: 'https://drive.google.com/file/d/1-81W-VoDBG9r9_QmUYpdD9vJx-4QoSHg/view?usp=drive_link',
   email: '',
   location: '[Your Location]',
