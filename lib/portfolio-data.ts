@@ -1,15 +1,15 @@
 export const portfolio = {
-  name: 'Chandra Kanta Jena',
+  name: 'Harsh Kumar Srivastava',
   initials: 'Portfolio',
-  title: 'B.Tech CSE | AI & ML Student',
+  title: 'B.Tech CSE ',
   availability: 'Open to learning, building & collaborating',
   bio: 'Passionate about programming, artificial intelligence, machine learning, web development, and building real-world projects. Currently learning, experimenting, and improving my skills every day.',
   about: "I'm a 2nd-year B.Tech Computer Science and Engineering student interested in Artificial Intelligence, Machine Learning, software development, and problem solving. I enjoy learning new technologies and turning ideas into practical projects.",
   profileImage: '/profile-student.png',
-  resumeUrl: 'https://drive.google.com/file/d/1VhW4W8kVQu9OBsq1kp2JujprB1Zun1-k/view?usp=sharing',
-  email: 'chandrakant9078@gmail.com',
+  resumeUrl: 'https://drive.google.com/file/d/1-81W-VoDBG9r9_QmUYpdD9vJx-4QoSHg/view?usp=drive_link',
+  email: '',
   location: '[Your Location]',
-  socials: { github: 'https://github.com/chandrakant8455', linkedin: 'https://www.linkedin.com/in/chandra-kanta-jena16/' },
+  socials: { github: 'https://github.com/harshkumarsrivastava21-ui', linkedin: 'https://www.linkedin.com/in/harshhkumarsrivastava/' },
   skills: {
     programming: ['Python', 'C', 'C++', 'JavaScript'],
     web: ['HTML', 'CSS', 'JavaScript'],
@@ -37,10 +37,10 @@ export const portfolio = {
   ],
   achievements: ['Coding achievements', 'Hackathons', 'SIH participation', 'Certifications', 'Workshops', 'Technical competitions'],
   certificates: [
-    { title: 'AI Fundamentals - Google', issuer: 'Coursera', year: '2026', image: 'Ai fundamentals_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1KGEURIDYtCMa5zJK6HPFxZvpf3mstFrc/view?usp=sharing' },
-    { title: 'Introduction to Structured Query Language (SQL) - University of Michigan', issuer: 'Coursera', year: '2026', image: '/SQL_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1F66vcYuxYsbuB84BUvUY_c0BqUsUi6G9/view?usp=sharing' },
-    { title: 'Introductio to Python', issuer: 'Infosys SpringBoard', year: '2026', image: '/py1_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1C37hm0E3xn3JuvJaiSXGDOFbzAono3aQ/view?usp=sharing' },
-    { title: 'C Programming Language', issuer: 'iamneo - An NIIT Venture', year: '2026', image: '/C prog.jpg', certificateUrl: 'https://drive.google.com/file/d/14MOK4PMjRwraZ8pWpRhzfqWtQmeCH21D/view?usp=sharing' },
+    { title: 'Cyber Security', issuer: 'Coursera', year: '2026', image: '/CYBER SECURITY_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1SLWkln5ph_Xto5H0Ax0HH3NEHV_KVsvj/view?usp=drive_link' },
+    { title: 'Java Fundamentals', issuer: 'TuteDdude', year: '2026', image: '/JAVA_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1_kcGPighgVu_OcY2SR8fLi3W19iPvFv5/view?usp=drive_link' },
+    { title: 'Introductio to Python', issuer: 'Infosys SpringBoard', year: '2026', image: '/PYTHON_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1AQYKSWQcxm3EMaECl_NYBZJt-VgNXhLn/view?usp=drive_link' },
+    { title: 'C Programming Language', issuer: 'iamneo - An NIIT Venture', year: '2026', image: '', certificateUrl: 'https://drive.google.com/file/d/14MOK4PMjRwraZ8pWpRhzfqWtQmeCH21D/view?usp=sharing' },
   ],
 } as const
 
