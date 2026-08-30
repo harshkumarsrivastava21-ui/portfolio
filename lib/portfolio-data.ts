@@ -8,7 +8,7 @@ export const portfolio = {
   profileImage: '/projects/Screenshot 2026-08-30 212423.png',
   resumeUrl: 'https://drive.google.com/file/d/1-81W-VoDBG9r9_QmUYpdD9vJx-4QoSHg/view?usp=drive_link',
   email: 'harshkumarsrivastava21@gmail.com',
-  location: '[Your Location]',
+  location: 'Jalandar, Punjab, 144411',
   socials: { github: 'https://github.com/harshkumarsrivastava21-ui', linkedin: 'https://www.linkedin.com/in/harshhkumarsrivastava/' },
   skills: {
     programming: ['Python', 'C', 'C++', 'JavaScript'],
