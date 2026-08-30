@@ -7,7 +7,7 @@ export const portfolio = {
   about: "I'm a 2nd-year B.Tech Computer Science and Engineering student interested in Artificial Intelligence, Machine Learning, software development, and problem solving. I enjoy learning new technologies and turning ideas into practical projects.",
   profileImage: '/projects/Screenshot 2026-08-30 212423.png',
   resumeUrl: 'https://drive.google.com/file/d/1-81W-VoDBG9r9_QmUYpdD9vJx-4QoSHg/view?usp=drive_link',
-  email: '',
+  email: 'harshkumarsrivastava21@gmail.com',
   location: '[Your Location]',
   socials: { github: 'https://github.com/harshkumarsrivastava21-ui', linkedin: 'https://www.linkedin.com/in/harshhkumarsrivastava/' },
   skills: {
@@ -40,7 +40,7 @@ export const portfolio = {
     { title: 'Cyber Security', issuer: 'Coursera', year: '2026', image: '/CYBER SECURITY_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1SLWkln5ph_Xto5H0Ax0HH3NEHV_KVsvj/view?usp=drive_link' },
     { title: 'Java Fundamentals', issuer: 'TuteDdude', year: '2026', image: '/JAVA_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1_kcGPighgVu_OcY2SR8fLi3W19iPvFv5/view?usp=drive_link' },
     { title: 'Introductio to Python', issuer: 'Infosys SpringBoard', year: '2026', image: '/PYTHON_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/1AQYKSWQcxm3EMaECl_NYBZJt-VgNXhLn/view?usp=drive_link' },
-    { title: 'C Programming Language', issuer: 'iamneo - An NIIT Venture', year: '2026', image: '', certificateUrl: 'https://drive.google.com/file/d/14MOK4PMjRwraZ8pWpRhzfqWtQmeCH21D/view?usp=sharing' },
+    { title: 'C Programming Language', issuer: 'iamneo - An NIIT Venture', year: '2026', image: '/C_page-0001.jpg', certificateUrl: 'https://drive.google.com/file/d/14MOK4PMjRwraZ8pWpRhzfqWtQmeCH21D/view?usp=sharing' },
   ],
 } as const
 
